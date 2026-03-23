@@ -1,0 +1,1471 @@
+month,subscriber_type,trip_count,avg_duration
+2013-12,Local365,66,11.3
+2013-12,Annual Pass,19,9.4
+2013-12,Annual ,2,9.0
+2013-12,Founding Member,48,15.8
+2013-12,24 Hour Walk Up Pass,1264,44.1
+2013-12,Annual,4,19.3
+2013-12,Annual Membership,2,8.0
+2013-12,7-Day,13,12.0
+2014-01,Explorer,5,34.4
+2014-01,Annual Membership,6,5.3
+2014-01,24 Hour Walk Up Pass,2245,40.8
+2014-01,7-Day,81,14.5
+2014-01,Annual Pass,9,11.3
+2014-01,Local365,651,10.6
+2014-01,Founding Member,208,7.3
+2014-01,Annual,2,17.5
+2014-01,Annual ,33,12.5
+2014-02,Annual Pass,2,22.0
+2014-02,Semester Membership,46,11.2
+2014-02,7-Day,46,15.0
+2014-02,Explorer,54,52.5
+2014-02,24 Hour Walk Up Pass,3822,39.9
+2014-02,Annual,7,9.3
+2014-02,Local365,992,9.7
+2014-02,Founding Member,228,8.6
+2014-02,Annual Membership,5,4.8
+2014-02,Annual ,23,16.3
+2014-03,Explorer,88,24.4
+2014-03,24-Hour Membership,1,29.0
+2014-03,Semester Membership,264,10.7
+2014-03,Local365,2704,10.4
+2014-03,24 Hour Walk Up Pass,20045,36.9
+2014-03,Annual Membership,32,11.8
+2014-03,7-Day,996,15.1
+2014-03,Annual Pass,4,13.3
+2014-03,Annual,49,15.1
+2014-03,Annual ,66,15.6
+2014-03,Founding Member,332,11.3
+2014-04,Founding Member,295,9.5
+2014-04,Annual,44,12.5
+2014-04,7-Day,176,17.1
+2014-04,Annual ,12,13.4
+2014-04,Local365,2662,8.8
+2014-04,24 Hour Walk Up Pass,10360,39.9
+2014-04,Annual Membership,57,6.5
+2014-04,Heartland Pass (Annual Pay),2,11.5
+2014-04,Explorer,58,44.6
+2014-04,Annual Pass,26,18.5
+2014-04,Semester Membership,164,9.1
+2014-05,7-Day,223,14.2
+2014-05,24 Hour Walk Up Pass,10960,36.6
+2014-05,Founding Member,359,8.4
+2014-05,Annual Membership,55,7.6
+2014-05,Annual ,4,16.0
+2014-05,Annual,59,15.1
+2014-05,Local365,2695,9.9
+2014-05,Explorer,50,32.1
+2014-05,Semester Membership,139,10.3
+2014-06,Annual Pass (Original),8,10.5
+2014-06,Founding Member,261,8.4
+2014-06,Annual Membership,47,8.0
+2014-06,Explorer,40,45.3
+2014-06,Semester Membership,266,9.0
+2014-06,Annual,39,13.4
+2014-06,Annual ,26,18.9
+2014-06,7-Day,242,14.1
+2014-06,Local365,2826,9.4
+2014-06,24 Hour Walk Up Pass,9461,36.0
+2014-07,Annual ,5,13.2
+2014-07,Semester Membership,401,10.7
+2014-07,7-Day,225,14.8
+2014-07,Annual Pass,16,12.6
+2014-07,Explorer,107,23.9
+2014-07,Local365,3174,9.4
+2014-07,Annual Membership,29,19.4
+2014-07,24 Hour Walk Up Pass,9698,35.2
+2014-07,Founding Member,231,10.9
+2014-07,Annual,5,29.4
+2014-08,Founding Member,209,10.2
+2014-08,Local365,3037,9.0
+2014-08,7-Day,164,12.1
+2014-08,Annual ,16,11.4
+2014-08,Annual Pass (Original),2,25.5
+2014-08,Explorer,65,34.3
+2014-08,Annual,54,26.6
+2014-08,24 Hour Walk Up Pass,7614,37.3
+2014-08,Semester Membership,235,12.4
+2014-08,Annual Membership,14,12.3
+2014-09,Founding Member,227,8.3
+2014-09,7-Day,48,18.1
+2014-09,24 Hour Walk Up Pass,7154,33.6
+2014-09,Annual Membership,18,20.2
+2014-09,Explorer,102,31.6
+2014-09,Semester Membership,344,11.3
+2014-09,Annual ,7,21.7
+2014-09,Annual Pass,5,6.6
+2014-09,Local365,3184,9.5
+2014-09,Annual,23,32.5
+2014-10,ACL Weekend Pass Special,319,21.1
+2014-10,7-Day,439,16.4
+2014-10,Annual Pass,5,15.0
+2014-10,Annual ,8,20.5
+2014-10,24 Hour Walk Up Pass,15849,34.2
+2014-10,Explorer,150,30.4
+2014-10,Semester Membership,492,12.0
+2014-10,Annual Membership,16,27.2
+2014-10,Annual,75,16.1
+2014-10,Founding Member,265,9.1
+2014-10,Local365,4438,10.3
+2014-11,24 Hour Walk Up Pass,7099,34.4
+2014-11,Annual,63,13.6
+2014-11,Explorer,41,30.1
+2014-11,7-Day,62,16.5
+2014-11,Annual Membership,104,14.4
+2014-11,Semester Membership,320,11.4
+2014-11,Local365,2500,10.3
+2014-11,Founding Member,201,8.7
+2014-11,Annual Pass,5,11.6
+2014-11,Annual ,12,25.4
+2014-11,FunFunFun Fest 3 Day Pass,27,19.3
+2014-12,Annual Membership,6,10.8
+2014-12,Semester Membership,222,11.1
+2014-12,Explorer,35,27.6
+2014-12,Local31,17,13.3
+2014-12,Annual,45,19.4
+2014-12,Founding Member,146,9.3
+2014-12,Local365,2003,8.5
+2014-12,7-Day,59,19.3
+2014-12,Heartland Pass (Annual Pay),6,37.7
+2014-12,24 Hour Walk Up Pass,4502,31.9
+2015-01,Annual ,3,6.3
+2015-01,Semester Membership,83,9.8
+2015-01,Annual Pass (Original),10,15.7
+2015-01,Explorer,115,28.3
+2015-01,Annual,26,10.5
+2015-01,Annual Pass,6,9.0
+2015-01,Local31,185,13.5
+2015-01,24 Hour Walk Up Pass,4740,35.4
+2015-01,Founding Member,111,9.8
+2015-01,Local365,2128,8.6
+2015-01,7-Day,160,15.2
+2015-02,Founding Member,125,9.0
+2015-02,Annual ,13,14.6
+2015-02,24 Hour Walk Up Pass,6176,35.4
+2015-02,Semester Membership,77,7.8
+2015-02,Local365,2299,9.7
+2015-02,Explorer,178,30.5
+2015-02,7-Day,52,10.3
+2015-02,Annual,68,15.3
+2015-02,Annual Membership,60,12.9
+2015-02,Local31,215,12.8
+2015-03,Local365,4762,10.4
+2015-03,7-Day,2298,14.2
+2015-03,24 Hour Walk Up Pass,20030,29.5
+2015-03,Annual Pass,35,18.8
+2015-03,Semester Membership,135,8.9
+2015-03,Annual ,46,13.5
+2015-03,Local31,1085,11.4
+2015-03,Annual,85,13.5
+2015-03,Annual Membership,26,17.1
+2015-03,Founding Member,150,12.1
+2015-03,Explorer,402,28.8
+2015-04,24 Hour Walk Up Pass,10719,36.4
+2015-04,Explorer,248,31.1
+2015-04,Annual Pass,4,16.3
+2015-04,Semester Membership,42,9.0
+2015-04,Local31,889,10.4
+2015-04,Founding Member,137,10.8
+2015-04,7-Day,341,13.5
+2015-04,Annual,89,16.5
+2015-04,Annual ,24,13.3
+2015-04,Annual Membership,18,22.2
+2015-04,Local365,3552,9.3
+2015-05,7-Day,54,23.0
+2015-05,3-Day Weekender,287,19.3
+2015-05,Local365,3096,9.7
+2015-05,Explorer,246,27.6
+2015-05,Semester Membership,1,7.0
+2015-05,Local31,675,11.5
+2015-05,Founding Member,140,8.6
+2015-05,24 Hour Walk Up Pass,10808,37.3
+2015-05,Annual Membership,18,22.9
+2015-05,Annual,30,20.5
+2015-05,Annual ,8,14.4
+2015-06,24 Hour Walk Up Pass,8588,34.3
+2015-06,Explorer,155,30.8
+2015-06,Local31,981,12.9
+2015-06,Annual ,5,10.4
+2015-06,Annual Membership,11,18.9
+2015-06,Annual,8,14.4
+2015-06,Local365,3304,9.1
+2015-06,Founding Member,155,8.8
+2015-06,Annual Pass,2,12.0
+2015-06,3-Day Weekender,317,16.2
+2015-07,3-Day Weekender,298,15.6
+2015-07,Founding Member,176,8.3
+2015-07,Annual ,13,13.7
+2015-07,Annual Pass (Original),1,12.0
+2015-07,Annual Pass,10,29.8
+2015-07,24 Hour Walk Up Pass,9307,38.0
+2015-07,Local31,1952,12.4
+2015-07,Local365,3770,9.1
+2015-07,Annual,15,11.1
+2015-07,Explorer,195,22.4
+2015-07,Annual Membership,14,16.4
+2015-08,24 Hour Walk Up Pass,7222,35.2
+2015-08,Annual Membership,21,13.4
+2015-08,Annual,17,18.3
+2015-08,Founding Member,151,9.3
+2015-08,Annual ,10,21.2
+2015-08,Local365,3914,9.2
+2015-08,3-Day Weekender,549,17.0
+2015-08,Explorer,177,30.0
+2015-08,Local31,1574,11.4
+2015-09,Founding Member,176,9.1
+2015-09,3-Day Weekender,539,17.9
+2015-09,24 Hour Walk Up Pass,7445,34.8
+2015-09,"Membership: pay once, one-year commitment",2,13.0
+2015-09,Explorer,149,22.9
+2015-09,Local365,4694,9.5
+2015-09,Annual Pass,6,8.8
+2015-09,Local31,1131,10.6
+2015-09,Annual ,3,11.7
+2015-09,Annual,29,11.8
+2015-09,RideScout Single Tide,34,10.1
+2015-09,Local365 Youth (age 13-17 riders),14,19.2
+2015-09,Annual Membership,48,8.1
+2015-10,Annual ,26,26.8
+2015-10,Local365,5457,9.5
+2015-10,Annual Pass (Original),6,13.8
+2015-10,Explorer,240,25.1
+2015-10,Annual Membership ,4,13.0
+2015-10,Founding Member,159,7.1
+2015-10,Annual Membership,33,16.7
+2015-10,Annual,133,12.4
+2015-10,3-Day Weekender,1536,20.1
+2015-10,Annual Pass,7,14.0
+2015-10,24 Hour Walk Up Pass,12249,32.3
+2015-10,Local31,1465,11.3
+2015-10,RideScout Single Tide,46,30.2
+2015-11,Local31,1037,10.7
+2015-11,Annual Pass,4,9.0
+2015-11,Annual,41,13.0
+2015-11,Annual ,12,15.3
+2015-11,Explorer,133,27.4
+2015-11,RideScout Single Tide,22,15.3
+2015-11,Annual Membership,14,17.1
+2015-11,24 Hour Walk Up Pass,5470,38.0
+2015-11,Local365,3686,8.8
+2015-11,3-Day Weekender,483,22.7
+2015-11,Founding Member,138,9.6
+2015-12,Local31,817,10.6
+2015-12,Annual,16,13.2
+2015-12,RideScout Single Tide,7,6.3
+2015-12,24 Hour Walk Up Pass,4784,33.5
+2015-12,Explorer,147,26.4
+2015-12,3-Day Weekender,193,16.5
+2015-12,Annual ,10,12.7
+2015-12,Founding Member,187,9.3
+2015-12,Annual Membership,26,13.4
+2015-12,Local365,3448,8.8
+2016-01,Founding Member,112,7.4
+2016-01,Annual Member,15,23.1
+2016-01,RESTRICTED,1,8.0
+2016-01,Local30,760,11.3
+2016-01,Local365,3611,12.2
+2016-01,Explorer,155,29.7
+2016-01,Weekender,348,20.3
+2016-01,Annual Membership,19,17.0
+2016-01,Annual,14,19.9
+2016-01,Walk Up,5702,39.6
+2016-01,RideScout Single Ride,4,2.0
+2016-02,Annual Membership,4,37.5
+2016-02,Annual,10,10.8
+2016-02,Weekender ($15 plus tax),550,18.9
+2016-02,Local365 ($80 plus tax),3886,13.5
+2016-02,Explorer ($8 plus tax),182,32.2
+2016-02,Founding Member,127,8.9
+2016-02,Annual Member,13,10.3
+2016-02,Walk Up,7434,43.5
+2016-02,Local30 ($11 plus tax),820,12.3
+2016-03,7-Day,5,8.8
+2016-03,Republic Rider,16,20.4
+2016-03,Local365,6510,12.6
+2016-03,Explorer,444,20.6
+2016-03,Annual Member,45,19.0
+2016-03,Walk Up,17788,35.0
+2016-03,Annual,161,20.1
+2016-03,Founding Member,176,12.9
+2016-03,Weekender,1441,19.3
+2016-03,Annual Membership,17,22.8
+2016-03,Local365 Youth with helmet (age 13-17 riders),16,15.6
+2016-03,Local30,2073,15.0
+2016-04,Annual Membership,19,25.5
+2016-04,Annual Member,37,14.8
+2016-04,Annual Pass,4,42.0
+2016-04,Annual Plus,10,11.1
+2016-04,Local365,4535,11.9
+2016-04,Weekender,1016,18.3
+2016-04,Local365 Youth with helmet (age 13-17 riders),3,15.0
+2016-04,Local30,1166,15.6
+2016-04,Founding Member,111,26.1
+2016-04,Try Before You Buy Special,2,6.5
+2016-04,Explorer,198,31.6
+2016-04,Walk Up,10321,46.6
+2016-04,Republic Rider (Annual),1,7.0
+2016-04,Annual,3,6.0
+2016-05,Annual,18,16.9
+2016-05,Explorer,163,22.0
+2016-05,Annual Member,10,11.5
+2016-05,Local365,4474,10.9
+2016-05,Founding Member,89,9.3
+2016-05,Try Before You Buy Special,201,49.2
+2016-05,Annual Membership,30,26.0
+2016-05,Weekender,821,22.4
+2016-05,Walk Up,11945,46.1
+2016-05,Local30,1269,13.2
+2016-05,Local365 Youth with helmet (age 13-17 riders),4,8.0
+2016-05,Republic Rider (Annual),5,9.6
+2016-06,Local365 Youth with helmet (age 13-17 riders),9,8.1
+2016-06,Local365,4467,11.3
+2016-06,Annual,9,18.2
+2016-06,Try Before You Buy Special,2,17.0
+2016-06,Founding Member,131,13.6
+2016-06,Annual Member,13,12.6
+2016-06,Weekender,559,19.8
+2016-06,Local30,1300,11.6
+2016-06,Annual Membership,8,17.5
+2016-06,Explorer,356,26.1
+2016-06,Walk Up,9156,44.1
+2016-07,Local365,4289,12.0
+2016-07,Explorer,352,31.9
+2016-07,Walk Up,9165,46.0
+2016-07,Membership: pay once  one-year commitment,2,24.0
+2016-07,Local365 Youth with helmet (age 13-17 riders),4,8.5
+2016-07,Local30,1319,15.3
+2016-07,Annual,13,18.8
+2016-07,Annual Membership,7,18.7
+2016-07,Weekender,558,17.9
+2016-07,Founding Member,79,10.6
+2016-07,Annual Member,15,19.1
+2016-08,Annual Member,13,16.8
+2016-08,Founding Member,87,6.5
+2016-08,Annual,9,7.7
+2016-08,Explorer,122,30.3
+2016-08,Local365 Youth with helmet (age 13-17 riders),3,22.7
+2016-08,Weekender,346,20.7
+2016-08,Walk Up,6109,44.7
+2016-08,Try Before You Buy Special,53,32.9
+2016-08,Local30,1099,12.4
+2016-08,Local365,4207,11.7
+2016-08,Annual Plus,2,8.5
+2016-09,Walk Up,8535,43.6
+2016-09,Annual,30,15.9
+2016-09,Local365,4806,11.7
+2016-09,Local30,1160,13.2
+2016-09,Founding Member,103,7.1
+2016-09,Annual Membership,6,17.0
+2016-09,Annual Plus,5,9.2
+2016-09,Republic Rider (Annual),13,14.8
+2016-09,Try Before You Buy Special,117,34.5
+2016-09,Explorer,187,35.3
+2016-09,Annual Member,3,14.0
+2016-09,Weekender,593,19.8
+2016-10,Walk Up,14417,40.3
+2016-10,Weekender,1733,21.7
+2016-10,Annual Plus,7,20.1
+2016-10,Republic Rider (Annual),1,9.0
+2016-10,Annual,20,26.3
+2016-10,Founding Member,107,11.8
+2016-10,Explorer,467,29.7
+2016-10,Annual Member,7,15.4
+2016-10,Local365,5560,11.9
+2016-10,Try Before You Buy Special,1,23.0
+2016-10,Local30,1347,11.6
+2016-10,Annual Membership,11,19.3
+2016-11,Explorer,240,30.9
+2016-11,Local365 Youth with helmet (age 13-17 riders),6,12.0
+2016-11,Founding Member,64,9.4
+2016-11,Walk Up,7935,42.3
+2016-11,Annual Plus,7,11.1
+2016-11,Try Before You Buy Special,69,64.4
+2016-11,Local30,915,10.9
+2016-11,Weekender,1018,21.0
+2016-11,Local365,3952,10.6
+2016-11,Annual Membership,49,13.4
+2016-11,Annual Member,1,18.0
+2016-11,Annual,18,14.6
+2016-11,Denver B-cycle Founder,7,9.6
+2016-12,Republic Rider (Annual),1,18.0
+2016-12,Walk Up,4236,46.2
+2016-12,Weekender,202,26.5
+2016-12,Annual Membership,12,19.8
+2016-12,Annual,4,14.0
+2016-12,Founding Member,45,7.1
+2016-12,Local365 Youth with helmet (age 13-17 riders),8,14.4
+2016-12,Annual Member,14,13.8
+2016-12,Local30,576,17.1
+2016-12,Local365,2771,12.6
+2016-12,Try Before You Buy Special,90,100.1
+2016-12,Denver B-cycle Founder,3,19.0
+2016-12,Explorer,213,35.0
+2017-01,Annual Member,3,17.7
+2017-01,Local30,656,13.4
+2017-01,Republic Rider (Annual),2,8.5
+2017-01,Walk Up,5135,51.1
+2017-01,Weekender,418,25.2
+2017-01,Try Before You Buy Special,55,40.2
+2017-01,Annual Membership,3,21.7
+2017-01,Founding Member,31,44.3
+2017-01,Annual Pass,1,7.0
+2017-01,Local365+Guest Pass,15,21.1
+2017-01,Local365,3600,11.8
+2017-01,Explorer,254,29.0
+2017-01,Denver B-cycle Founder,2,13.0
+2017-01,Local365 Youth with helmet (age 13-17 riders),11,24.7
+2017-01,Annual,9,28.6
+2017-02,Annual Pass,2,45.0
+2017-02,Annual Member,5,19.6
+2017-02,Founding Member,32,8.8
+2017-02,Local365 Youth with helmet (age 13-17 riders),2,10.5
+2017-02,Annual,22,28.5
+2017-02,Local30,1045,13.7
+2017-02,Weekender,1277,27.6
+2017-02,Local365+Guest Pass,69,9.3
+2017-02,Explorer,325,33.9
+2017-02,Local365,3984,11.9
+2017-02,Walk Up,6472,48.1
+2017-02,Annual Membership,18,19.6
+2017-02,Republic Rider (Annual),9,18.1
+2017-03,Explorer,457,34.4
+2017-03,Annual Member,29,15.9
+2017-03,Local30,3173,15.9
+2017-03,Founding Member,9,16.2
+2017-03,Local365+Guest Pass,410,15.5
+2017-03,Annual Membership,12,19.0
+2017-03,Annual,40,14.3
+2017-03,Annual Plus,2,11.0
+2017-03,Weekender,2851,23.0
+2017-03,Walk Up,12735,43.3
+2017-03,Local365,6264,11.9
+2017-03,Local365 Youth with helmet (age 13-17 riders),10,8.7
+2017-03,Annual Pass,8,31.1
+2017-04,Weekender,2398,28.8
+2017-04,Annual Membership,19,26.8
+2017-04,Annual Member,7,31.4
+2017-04,Local30,1419,15.7
+2017-04,Founding Member,12,16.8
+2017-04,Walk Up,10643,46.5
+2017-04,Local365,4371,13.3
+2017-04,Try Before You Buy Special,1,6.0
+2017-04,Local365+Guest Pass,404,15.3
+2017-04,Annual,35,16.9
+2017-04,Local365 Youth with helmet (age 13-17 riders),6,26.2
+2017-04,Explorer,467,35.4
+2017-04,Republic Rider (Annual),19,17.3
+2017-04,Annual Plus,5,14.8
+2017-05,Walk Up,9286,49.5
+2017-05,Local30,1698,17.4
+2017-05,Weekender,2213,29.3
+2017-05,Annual,40,24.9
+2017-05,Membership: pay once  one-year commitment,9,5.8
+2017-05,Local365,4405,12.2
+2017-05,Local365+Guest Pass,421,11.5
+2017-05,Explorer,543,35.2
+2017-05,Local365 Youth with helmet (age 13-17 riders),2,23.5
+2017-05,Annual Pass,2,26.5
+2017-05,Annual Membership,9,12.7
+2017-05,Annual Plus,12,14.4
+2017-05,Annual Member,5,16.6
+2017-06,Try Before You Buy Special,2,32.0
+2017-06,Explorer,485,37.7
+2017-06,Weekender,1448,30.5
+2017-06,Local365 Youth with helmet (age 13-17 riders),7,19.0
+2017-06,Annual Member,11,5.8
+2017-06,Walk Up,6823,52.5
+2017-06,Annual Plus,66,13.3
+2017-06,Annual Membership,9,20.1
+2017-06,Local365,4477,13.9
+2017-06,Local365+Guest Pass,561,16.2
+2017-06,Annual,22,17.1
+2017-06,Local30,1721,16.5
+2017-07,Local365 Youth (age 13-17 riders),3,20.7
+2017-07,Local30,1771,16.9
+2017-07,Republic Rider (Annual),20,28.1
+2017-07,Local365,3430,14.8
+2017-07,Walk Up,6572,51.8
+2017-07,Annual,5,14.0
+2017-07,Annual Membership,8,19.9
+2017-07,Annual Member,22,47.4
+2017-07,Weekender,1354,25.2
+2017-07,Explorer,401,42.0
+2017-07,Local365+Guest Pass,609,12.5
+2017-08,Annual,13,33.5
+2017-08,Explorer,266,29.5
+2017-08,Weekender,1084,28.4
+2017-08,Local365,3170,12.7
+2017-08,Local365 Youth (age 13-17 riders),11,16.5
+2017-08,Annual Member,1,8.0
+2017-08,Local365+Guest Pass,596,11.0
+2017-08,Local30,1472,13.8
+2017-08,Walk Up,4147,53.7
+2017-08,Annual Membership,9,19.8
+2017-08,Membership: pay once  one-year commitment,2,7.5
+2017-08,Republic Rider (Annual),4,9.3
+2017-09,Annual Plus,10,29.9
+2017-09,Annual Pass,8,27.9
+2017-09,Annual Member,2,12.0
+2017-09,Explorer,474,39.5
+2017-09,Weekender,1112,27.0
+2017-09,Local365,3370,15.9
+2017-09,Local30,1423,18.2
+2017-09,Walk Up,7364,48.5
+2017-09,Local365 Youth (age 13-17 riders),6,15.5
+2017-09,Local365+Guest Pass,619,15.8
+2017-09,Annual,7,135.0
+2017-09,Annual Membership,2,18.0
+2017-09,Republic Rider (Annual),11,11.5
+2017-10,Local365,4488,12.5
+2017-10,Republic Rider (Annual),14,7.5
+2017-10,Local30,1519,13.6
+2017-10,Weekender,2744,25.2
+2017-10,Walk Up,9477,42.9
+2017-10,Try Before You Buy Special,1,26.0
+2017-10,Explorer,607,32.3
+2017-10,Local365 Youth (age 13-17 riders),21,14.2
+2017-10,Local365+Guest Pass,944,13.6
+2017-10,Annual,40,23.2
+2017-10,Annual Plus,2,26.5
+2017-10,Annual Member,32,39.2
+2017-11,Annual Member,12,31.8
+2017-11,Annual Pass,18,20.1
+2017-11,Local365 Youth (age 13-17 riders),4,27.0
+2017-11,Local30,1165,17.4
+2017-11,Republic Rider (Annual),27,9.7
+2017-11,Annual Membership,22,15.5
+2017-11,Walk Up,7484,47.7
+2017-11,Explorer,439,37.6
+2017-11,Local365+Guest Pass,724,15.7
+2017-11,Weekender,1248,28.7
+2017-11,Local365,3545,15.2
+2017-11,Annual,6,25.8
+2017-12,Annual Member,9,16.8
+2017-12,Weekender,802,26.6
+2017-12,Republic Rider (Annual),1,5.0
+2017-12,Local365+Guest Pass,476,16.2
+2017-12,Local365 Youth (age 13-17 riders),4,18.0
+2017-12,Local365,2187,13.0
+2017-12,Annual,36,18.6
+2017-12,Walk Up,4042,46.8
+2017-12,Local30,782,12.8
+2017-12,Try Before You Buy Special,1,11.0
+2017-12,Explorer,299,31.0
+2018-01,Local30,1074,19.0
+2018-01,Local365+Guest Pass,516,12.6
+2018-01,Explorer,352,35.6
+2018-01,Weekender,971,26.8
+2018-01,Walk Up,4382,52.1
+2018-01,Annual Membership,3,12.3
+2018-01,Republic Rider (Annual),39,9.9
+2018-01,Annual Member,6,15.0
+2018-01,Local365 Youth (age 13-17 riders),3,30.7
+2018-01,Local365,2570,13.4
+2018-02,Local365 Youth (age 13-17 riders),3,23.0
+2018-02,Republic Rider (Annual),8,19.5
+2018-02,Local30,1085,20.2
+2018-02,Annual Membership,5,17.6
+2018-02,Annual,22,16.9
+2018-02,Walk Up,4688,56.7
+2018-02,U.T. Student Membership,16944,22.6
+2018-02,Annual Pass,1,20.0
+2018-02,Local365,2223,18.4
+2018-02,Annual Member,2,7.5
+2018-02,Local365+Guest Pass,511,34.8
+2018-02,Explorer,386,37.3
+2018-02,Weekender,1244,31.3
+2018-03,Annual Member,62,12.3
+2018-03,Annual,64,33.5
+2018-03,Local365,4825,16.2
+2018-03,Annual Membership,21,24.8
+2018-03,Walk Up,13938,48.8
+2018-03,Local30,3042,17.0
+2018-03,Republic Rider (Annual),8,22.8
+2018-03,Local365 Youth (age 13-17 riders),8,21.9
+2018-03,Annual Plus,15,23.4
+2018-03,Madtown Monthly,36,12.1
+2018-03,Weekender,3529,24.3
+2018-03,Local365+Guest Pass,867,24.3
+2018-03,UT Student Membership,1,7.0
+2018-03,Explorer,965,35.1
+2018-03,U.T. Student Membership,43238,16.0
+2018-04,UT Student Membership,3,5.3
+2018-04,Walk Up,10463,50.9
+2018-04,Annual,52,17.6
+2018-04,Annual Plus,6,15.5
+2018-04,Explorer,999,38.5
+2018-04,Annual Member,3,27.3
+2018-04,Annual Pass,10,19.9
+2018-04,Republic Rider (Annual),13,11.3
+2018-04,Local365,3548,15.1
+2018-04,Local30,1544,15.6
+2018-04,Local365+Guest Pass,592,13.0
+2018-04,Annual Plus Membership,25,18.1
+2018-04,Weekender,2101,31.6
+2018-04,U.T. Student Membership,42712,13.9
+2018-04,Local365 Youth (age 13-17 riders),7,45.7
+2018-04,Annual Membership,17,32.5
+2018-05,Explorer,799,43.7
+2018-05,Local30,1216,19.5
+2018-05,Local365,3711,14.9
+2018-05,Walk Up,8515,49.9
+2018-05,Republic Rider (Annual),8,11.5
+2018-05,Annual Plus,15,18.9
+2018-05,Local365 Youth (age 13-17 riders),8,25.8
+2018-05,Weekender,1986,31.4
+2018-05,Annual Pass,1,57.0
+2018-05,U.T. Student Membership,23970,16.9
+2018-05,UT Student Membership,4,15.8
+2018-05,Local365+Guest Pass,601,13.0
+2018-05,Annual,26,17.0
+2018-05,Annual Member,9,17.7
+2018-06,Local365+Guest Pass,502,20.2
+2018-06,Annual,12,21.3
+2018-06,Annual Member,7,12.9
+2018-06,Local365 Youth (age 13-17 riders),1,58.0
+2018-06,Walk Up,4924,57.6
+2018-06,Local30,1446,19.3
+2018-06,U.T. Student Membership,12261,14.7
+2018-06,Aluminum Access,3,35.7
+2018-06,Weekender,1242,29.5
+2018-06,Local365,3118,15.0
+2018-06,Explorer,395,34.2
+2018-06,Republic Rider (Annual),7,4.4
+2018-07,Local365,2562,12.9
+2018-07,Aluminum Access,26,10.2
+2018-07,Local365+Guest Pass,523,15.4
+2018-07,Annual Membership,6,8.0
+2018-07,Walk Up,4193,57.0
+2018-07,Explorer,398,38.7
+2018-07,Weekender,633,30.5
+2018-07,Annual,2,27.5
+2018-07,Local365 Youth (age 13-17 riders),7,35.1
+2018-07,Local30,1269,19.2
+2018-07,U.T. Student Membership,11120,18.2
+2018-08,HT Ram Membership,36,26.1
+2018-08,Walk Up,2911,70.9
+2018-08,Local30,801,21.9
+2018-08,Annual Membership,16,12.3
+2018-08,U.T. Student Membership,15056,15.4
+2018-08,Annual,18,16.7
+2018-08,Local365+Guest Pass,459,14.4
+2018-08,Republic Rider (Annual),11,16.4
+2018-08,Explorer,290,40.9
+2018-08,Aluminum Access,25,17.5
+2018-08,Local365 Youth (age 13-17 riders),7,22.4
+2018-08,Weekender,534,28.2
+2018-08,Local365,2364,19.9
+2018-09,Annual,36,19.2
+2018-09,Annual Membership,2,6.0
+2018-09,Aluminum Access,4,6.3
+2018-09,Annual Plus,4,20.0
+2018-09,Local365,2041,20.2
+2018-09,U.T. Student Membership,34531,14.5
+2018-09,HT Ram Membership,436,48.0
+2018-09,Local30,539,35.2
+2018-09,Republic Rider (Annual),14,29.2
+2018-09,Explorer,380,38.6
+2018-09,Local365+Guest Pass,411,22.0
+2018-09,Weekender,676,29.3
+2018-09,Walk Up,3107,67.3
+2018-09,Local365 Youth (age 13-17 riders),1,20.0
+2018-10,Annual Membership,1,11.0
+2018-10,Local365 Youth (age 13-17 riders),6,19.0
+2018-10,Single Trip,3,48.3
+2018-10,24 Hour Walk Up Pass,2999,80.3
+2018-10,Local30,631,25.0
+2018-10,3-Day Weekender,1251,40.5
+2018-10,Annual,16,21.8
+2018-10,Republic Rider (Annual),4,46.3
+2018-10,3-Day Explorer,395,36.1
+2018-10,$1 Pay by Trip Fall Special,259,51.8
+2018-10,Explorer,416,50.0
+2018-10,Aluminum Access,1,7.0
+2018-10,HT Ram Membership,491,54.7
+2018-10,Local365+Guest Pass,396,41.1
+2018-10,Local365,1903,38.2
+2018-10,U.T. Student Membership,22621,18.6
+2018-11,Local365 Youth (age 13-17 riders)- 1/2 off Special,3,7.0
+2018-11,Local30,440,31.6
+2018-11,U.T. Student Membership,13319,20.8
+2018-11,HT Ram Membership,296,40.9
+2018-11,Single Trip,1503,70.6
+2018-11,Aluminum Access,8,6.5
+2018-11,$1 Pay by Trip Fall Special,207,105.2
+2018-11,24 Hour Walk Up Pass,1037,73.4
+2018-11,3-Day Explorer,502,30.7
+2018-11,Local365- 1/2 off Anniversary Special,1538,21.0
+2018-11,3-Day Weekender,2,6.5
+2018-11,Local365+Guest Pass- 1/2 off Anniversary Special,266,14.0
+2018-11,Annual,6,15.3
+2018-11,Annual Plus,2,34.0
+2018-11,Explorer,252,38.3
+2018-11,Annual Membership,10,15.0
+2018-12,24 Hour Walk Up Pass,843,68.7
+2018-12,3-Day Explorer,334,30.9
+2018-12,Local30,265,29.9
+2018-12,Explorer,196,51.3
+2018-12,HT Ram Membership,116,62.0
+2018-12,Aluminum Access,15,6.5
+2018-12,Annual Plus,2,32.5
+2018-12,Local365+Guest Pass- 1/2 off Anniversary Special,200,36.1
+2018-12,$1 Pay by Trip Winter Special,223,76.4
+2018-12,UT Student Membership,1,2.0
+2018-12,Single Trip,1360,55.8
+2018-12,Annual Membership,7,17.6
+2018-12,Local365- 1/2 off Anniversary Special,1369,28.4
+2018-12,Annual,37,15.8
+2018-12,U.T. Student Membership,6611,37.8
+2019-01,U.T. Student Membership,4089,27.9
+2019-01,Annual Plus Membership,1,19.0
+2019-01,Annual,24,18.5
+2019-01,Annual Pass,2,9.0
+2019-01,$1 Pay by Trip Winter Special,260,61.5
+2019-01,24 Hour Walk Up Pass,690,70.0
+2019-01,3-Day Explorer,382,31.2
+2019-01,Local365 Youth (age 13-17 riders),5,11.8
+2019-01,Explorer,158,34.3
+2019-01,Annual Membership,10,18.1
+2019-01,Local365+Guest Pass,289,23.3
+2019-01,Aluminum Access,2,14.0
+2019-01,Local365,1549,25.5
+2019-01,Local30,363,18.0
+2019-01,HT Ram Membership,164,54.4
+2019-01,Single Trip,1107,73.4
+2019-02,3-Day Explorer,421,40.8
+2019-02,Annual ,4,52.3
+2019-02,$1 Pay by Trip Winter Special,281,80.3
+2019-02,U.T. Student Membership,5528,42.5
+2019-02,Single Trip,1149,78.8
+2019-02,Local30,345,28.9
+2019-02,HT Ram Membership,121,147.2
+2019-02,Explorer,288,53.5
+2019-02,Aluminum Access,1,7.0
+2019-02,24 Hour Walk Up Pass,757,105.3
+2019-02,Local365 Youth (age 13-17 riders),21,48.7
+2019-02,Local365,1360,35.6
+2019-02,Annual,24,20.9
+2019-02,Local365+Guest Pass,232,37.6
+2019-03,Local30,847,30.8
+2019-03,Aluminum Access,6,8.5
+2019-03,Single Trip Ride,511,51.4
+2019-03,U.T. Student Membership,5450,24.0
+2019-03,Annual,65,24.6
+2019-03,3-Day Explorer,862,30.2
+2019-03,Republic Rider (Annual),2,8.5
+2019-03,HT Ram Membership,331,36.1
+2019-03,Single Trip ,2870,72.4
+2019-03,Local365+Guest Pass,355,34.5
+2019-03,Local365,2299,21.0
+2019-03,Local365 Youth (age 13-17 riders),22,5.0
+2019-03,Explorer,449,53.6
+2019-03,Annual Membership,32,53.1
+2019-03,Madtown Monthly,27,25.7
+2019-03,24 Hour Walk Up Pass,1303,87.0
+2019-04,Annual,18,21.7
+2019-04,Aluminum Access,1,6.0
+2019-04,Local365,1281,26.7
+2019-04,Single Trip ,2012,77.4
+2019-04,24 Hour Walk Up Pass,1470,83.9
+2019-04,Annual Membership,1,14.0
+2019-04,3-Day Weekender,1,98.0
+2019-04,Local30,348,29.7
+2019-04,3-Day Explorer,852,35.7
+2019-04,Explorer,356,87.9
+2019-04,Republic Rider (Annual),6,24.3
+2019-04,Local365 Youth (age 13-17 riders),19,6.5
+2019-04,HT Ram Membership,270,102.9
+2019-04,Single Trip Ride,399,67.6
+2019-04,U.T. Student Membership,5813,29.7
+2019-04,Annual ,20,20.5
+2019-04,Local365+Guest Pass,232,37.4
+2019-05,HT Ram Membership,71,60.0
+2019-05,Local365,1279,29.6
+2019-05,24 Hour Walk Up Pass,1137,81.7
+2019-05,Annual ,25,8.9
+2019-05,Annual Membership,11,23.8
+2019-05,Annual,9,14.7
+2019-05,Single Trip Ride,378,52.6
+2019-05,Explorer,484,56.9
+2019-05,Local365+Guest Pass,195,26.3
+2019-05,Local365 Youth (age 13-17 riders),13,29.5
+2019-05,3-Day Explorer,836,32.0
+2019-05,U.T. Student Membership,3715,25.3
+2019-05,Aluminum Access,4,7.0
+2019-05,Republic Rider (Annual),3,28.7
+2019-05,Local30,435,28.1
+2019-05,Annual Membership ,3,11.3
+2019-05,Single Trip ,1788,78.8
+2019-06,Annual Pass,7,20.0
+2019-06,Local365 Youth (age 13-17 riders),29,31.6
+2019-06,Annual ,35,31.5
+2019-06,Annual Membership,3,23.0
+2019-06,Single Trip Ride,423,67.3
+2019-06,Single Trip ,1503,92.2
+2019-06,Local30,551,23.7
+2019-06,HT Ram Membership,97,36.5
+2019-06,24 Hour Walk Up Pass,749,97.5
+2019-06,Explorer,235,50.4
+2019-06,U.T. Student Membership,2116,30.1
+2019-06,Local365,1123,19.2
+2019-06,3-Day Explorer,453,35.9
+2019-06,Local365+Guest Pass,202,18.2
+2019-06,Annual,8,11.1
+2019-07,Local365,1210,24.1
+2019-07,HT Ram Membership,83,16.6
+2019-07,Annual ,35,9.1
+2019-07,U.T. Student Membership,2040,25.0
+2019-07,Explorer,381,46.5
+2019-07,24 Hour Walk Up Pass,910,127.3
+2019-07,3-Day Explorer,522,38.3
+2019-07,Annual,8,16.0
+2019-07,Local365 Youth (age 13-17 riders),43,9.6
+2019-07,Heartland Pass (Monthly Pay),1,23.0
+2019-07,Annual Membership,7,54.4
+2019-07,Republic Rider (Annual),10,7.5
+2019-07,Local365+Guest Pass,135,26.0
+2019-07,Single Trip Ride,472,48.6
+2019-07,Local30,537,47.0
+2019-07,Single Trip ,1581,81.8
+2019-08,Annual ,34,15.7
+2019-08,3-Day Explorer,249,34.8
+2019-08,Explorer,235,36.7
+2019-08,Annual Membership,6,11.0
+2019-08,Local365,1289,23.5
+2019-08,U.T. Student Membership,1606,28.2
+2019-08,HT Ram Membership,47,49.3
+2019-08,Local30,396,30.5
+2019-08,Local365 Youth (age 13-17 riders),42,8.7
+2019-08,Single Trip ,1021,150.6
+2019-08,Local365+Guest Pass,67,12.6
+2019-08,Annual Pass,2,367.0
+2019-08,Annual,14,12.5
+2019-08,Single Trip Ride,438,138.4
+2019-08,24 Hour Walk Up Pass,440,179.7
+2019-09,Annual Membership,32,51.2
+2019-09,Annual Pass,4,14.0
+2019-09,U.T. Student Membership,2513,33.2
+2019-09,Annual,9,87.7
+2019-09,HT Ram Membership,27,56.3
+2019-09,Explorer,373,61.7
+2019-09,Local365 Youth (age 13-17 riders),49,27.3
+2019-09,Local365+Guest Pass,89,23.8
+2019-09,Pay-as-you-ride,73,45.5
+2019-09,Local365,2133,39.5
+2019-09,24 Hour Walk Up Pass,655,74.7
+2019-09,Local30,544,26.9
+2019-09,Single Trip ,934,139.5
+2019-09,3-Day Explorer,206,52.8
+2019-09,Annual ,23,577.3
+2019-09,Single Trip Ride,441,158.8
+2019-09,Republic Rider (Annual),4,206.5
+2019-09,Single Trip (Pay-as-you-ride),131,90.3
+2019-10,ACL 2019 Pass,207,31.9
+2019-10,HT Ram Membership,12,14.3
+2019-10,24 Hour Walk Up Pass,1114,87.1
+2019-10,Explorer,695,74.0
+2019-10,Annual ,33,9.9
+2019-10,Local365,2508,22.6
+2019-10,Annual Membership,8,11.6
+2019-10,Pay-as-you-ride,539,51.1
+2019-10,Local365+Guest Pass,92,24.3
+2019-10,U.T. Student Membership,1713,23.9
+2019-10,Single Trip (Pay-as-you-ride),1170,73.8
+2019-10,Single Trip Ride,4,22.8
+2019-10,Local365 Youth (age 13-17 riders),27,41.4
+2019-10,Local30,189,21.3
+2019-10,Annual,22,64.9
+2019-11,Single Trip (Pay-as-you-ride),706,71.2
+2019-11,HT Ram Membership,12,191.7
+2019-11,Pay-as-you-ride,284,67.3
+2019-11,24 Hour Walk Up Pass,882,74.5
+2019-11,U.T. Student Membership,997,32.1
+2019-11,Annual Membership,2,18.0
+2019-11,Local365,1836,27.2
+2019-11,Local365+Guest Pass,66,22.8
+2019-11,Local30,129,18.7
+2019-11,Single Trip Ride,1,57.0
+2019-11,Explorer,514,56.9
+2019-11,Republic Rider (Annual),1,89.0
+2019-11,Annual ,15,16.1
+2019-11,Local365 Youth (age 13-17 riders),12,7.8
+2019-11,Annual Pass,1,21.0
+2019-12,Local30,87,15.0
+2019-12,Local365+Guest Pass,44,14.6
+2019-12,Local365 Youth (age 13-17 riders),17,66.9
+2019-12,Single Trip (Pay-as-you-ride),762,86.9
+2019-12,Explorer,586,38.3
+2019-12,Local365,1446,29.6
+2019-12,HT Ram Membership,11,20.1
+2019-12,24 Hour Walk Up Pass,845,72.8
+2019-12,U.T. Student Membership,632,45.1
+2019-12,Annual Membership,1,5.0
+2019-12,Pay-as-you-ride,326,50.7
+2019-12,Single Trip Ride,2,17.5
+2020-01,Annual Membership,1,58.0
+2020-01,Pay-as-you-ride,368,128.5
+2020-01,HT Ram Membership,5,179.0
+2020-01,Republic Rider (Annual),12,25.0
+2020-01,24 Hour Walk Up Pass,749,71.2
+2020-01,Single Trip Ride,2,84.0
+2020-01,Annual ,6,13.5
+2020-01,Local365+Guest Pass,37,42.5
+2020-01,Local365 Youth (age 13-17 riders),14,88.6
+2020-01,U.T. Student Membership,508,20.0
+2020-01,Single Trip (Pay-as-you-ride),598,86.0
+2020-01,Explorer,781,49.0
+2020-01,Local365,1335,18.3
+2020-01,Annual,5,10.2
+2020-01,Local30,106,25.8
+2020-02,Annual Pass (30 minute),2,8.5
+2020-02,HT Ram Membership,12,25.0
+2020-02,U.T. Student Membership,737,12.6
+2020-02,Annual Membership,11,12.9
+2020-02,Annual ,22,67.9
+2020-02,Pay-as-you-ride,460,79.8
+2020-02,Annual,10,19.2
+2020-02,Local365+Guest Pass,29,22.4
+2020-02,24 Hour Walk Up Pass,1012,78.2
+2020-02,Republic Rider (Annual),2,39.5
+2020-02,Single Trip (Pay-as-you-ride),772,92.2
+2020-02,Explorer,937,41.4
+2020-02,Local30,106,29.0
+2020-02,Local365 Youth (age 13-17 riders),14,9.3
+2020-02,Local365,1740,20.9
+2020-03,Republic Rider (Annual),3,5.3
+2020-03,3-Day Weekender,74,35.5
+2020-03,Local365,2000,19.7
+2020-03,Explorer,999,40.5
+2020-03,Local365+Guest Pass,37,14.0
+2020-03,Single Trip (Pay-as-you-ride),902,91.3
+2020-03,U.T. Student Membership,798,17.1
+2020-03,24 Hour Walk Up Pass,1175,97.2
+2020-03,Annual,24,33.2
+2020-03,Pay-as-you-ride,454,62.5
+2020-03,HT Ram Membership,13,22.9
+2020-03,Annual Membership,4,24.3
+2020-03,Local30,212,20.3
+2020-03,Local365 Youth (age 13-17 riders),49,14.7
+2020-04,Local365+Guest Pass,26,12.0
+2020-04,HT Ram Membership,3,70.7
+2020-04,Single Trip Ride,1,61.0
+2020-04,3-Day Weekender,224,112.6
+2020-04,Pay-as-you-ride,575,74.7
+2020-04,Single Trip (Pay-as-you-ride),568,126.1
+2020-04,24 Hour Walk Up Pass,764,93.3
+2020-04,U.T. Student Membership,153,30.6
+2020-04,Local365 Youth (age 13-17 riders),57,25.6
+2020-04,Annual Membership,1,31.0
+2020-04,Local365,1306,41.5
+2020-04,Republic Rider (Annual),6,28.0
+2020-04,Local30,1090,43.0
+2020-04,Explorer,273,71.0
+2020-05,Pay-as-you-ride,1304,62.2
+2020-05,HT Ram Membership,5,28.6
+2020-05,Local30,1364,40.4
+2020-05,24 Hour Walk Up Pass,1711,93.9
+2020-05,Local365+Guest Pass,43,17.0
+2020-05,Explorer,729,54.1
+2020-05,Single Trip Ride,1,217.0
+2020-05,Local365,2171,30.3
+2020-05,Single Trip (Pay-as-you-ride),1598,65.1
+2020-05,Annual Membership,12,18.6
+2020-05,Local365 Youth (age 13-17 riders),103,29.0
+2020-05,U.T. Student Membership,157,21.4
+2020-05,3-Day Weekender,387,64.9
+2020-06,Republic Rider (Annual),4,26.8
+2020-06,Pay-as-you-ride,1028,103.1
+2020-06,Annual Membership,8,18.4
+2020-06,Local365+Guest Pass,49,15.6
+2020-06,Explorer,683,75.9
+2020-06,Single Trip (Pay-as-you-ride),1278,99.2
+2020-06,24 Hour Walk Up Pass,1330,148.1
+2020-06,Local365,3379,30.2
+2020-06,Local365 Youth (age 13-17 riders),26,73.3
+2020-06,3-Day Weekender,590,39.5
+2020-06,U.T. Student Membership,172,35.6
+2020-06,Local30,1349,32.2
+2020-07,3-Day Weekender,372,45.6
+2020-07,24 Hour Walk Up Pass,1081,91.7
+2020-07,Local365,3290,34.1
+2020-07,Local365+Guest Pass,45,15.2
+2020-07,Single Trip (Pay-as-you-ride),1146,61.7
+2020-07,Pay-as-you-ride,682,66.2
+2020-07,U.T. Student Membership,135,23.0
+2020-07,Annual Membership,3,39.3
+2020-07,Explorer,583,49.9
+2020-07,Local30,1213,35.6
+2020-08,Heartland Pass (Annual Pay),1,47.0
+2020-08,Pay-as-you-ride,786,61.3
+2020-08,Local30,1386,29.6
+2020-08,3-Day Weekender,467,47.3
+2020-08,U.T. Student Membership,255,16.7
+2020-08,Local365+Guest Pass,21,13.3
+2020-08,Local365,4007,26.5
+2020-08,Explorer,511,40.3
+2020-08,Annual,6,36.7
+2020-08,24 Hour Walk Up Pass,1237,71.7
+2020-08,Single Trip (Pay-as-you-ride),1166,62.8
+2020-09,24 Hour Walk Up Pass,1183,86.7
+2020-09,U.T. Student Membership,444,18.0
+2020-09,Local365,4634,27.6
+2020-09,Local31,1671,34.1
+2020-09,Explorer,775,42.4
+2020-09,3-Day Weekender,703,63.0
+2020-09,Pay-as-you-ride,733,53.5
+2020-09,Local365+Guest Pass,51,10.5
+2020-09,Annual Membership,10,103.4
+2020-09,Single Trip (Pay-as-you-ride),1096,66.3
+2020-09,Single Trip Ride,1,41.0
+2020-10,Explorer,763,53.5
+2020-10,Local365,4655,25.2
+2020-10,Single Trip Ride,2,18.0
+2020-10,24 Hour Walk Up Pass,1491,72.7
+2020-10,Pay-as-you-ride,790,63.9
+2020-10,U.T. Student Membership,502,23.1
+2020-10,Local31,1689,26.9
+2020-10,Local365+Guest Pass,48,9.0
+2020-10,Single Trip (Pay-as-you-ride),944,63.4
+2020-10,3-Day Weekender,850,38.8
+2020-10,Annual Membership,10,26.0
+2020-11,Pay-as-you-ride,683,43.9
+2020-11,U.T. Student Membership,458,16.2
+2020-11,Local365,4386,26.5
+2020-11,Annual Membership,6,12.7
+2020-11,24 Hour Walk Up Pass,1133,65.2
+2020-11,Single Trip (Pay-as-you-ride),1019,55.6
+2020-11,Explorer,776,49.5
+2020-11,HT Ram Membership,1,56.0
+2020-11,Local31,1658,29.4
+2020-11,3-Day Weekender,608,32.2
+2020-11,Local365+Guest Pass,39,14.5
+2020-12,3-Day Weekender,296,33.9
+2020-12,Explorer,567,41.8
+2020-12,U.T. Student Membership,264,16.9
+2020-12,Local365,2990,27.0
+2020-12,Annual Membership,12,52.7
+2020-12,Local31,1790,28.6
+2020-12,Local365+Guest Pass,14,11.5
+2020-12,24 Hour Walk Up Pass,739,61.4
+2020-12,Single Trip (Pay-as-you-ride),617,65.8
+2020-12,Pay-as-you-ride,451,57.0
+2021-01,U.T. Student Membership,273,18.9
+2021-01,3-Day Weekender,401,32.7
+2021-01,Pay-as-you-ride,651,48.3
+2021-01,Local365+Guest Pass,17,13.1
+2021-01,Single Trip (Pay-as-you-ride),777,57.4
+2021-01,24 Hour Walk Up Pass,1140,57.6
+2021-01,Local31,2668,31.1
+2021-01,Annual Membership,3,19.0
+2021-01,Local365,3908,25.9
+2021-01,Explorer,749,42.5
+2021-02,Annual Membership,2,30.5
+2021-02,U.T. Student Membership,249,31.4
+2021-02,Local365+Guest Pass,8,7.4
+2021-02,Pay-as-you-ride,410,45.7
+2021-02,Explorer,474,42.0
+2021-02,Local31,2061,32.2
+2021-02,Single Trip (Pay-as-you-ride),437,96.1
+2021-02,3-Day Weekender,258,37.4
+2021-02,Annual,1,25.0
+2021-02,24 Hour Walk Up Pass,546,55.6
+2021-02,Local365,2949,27.1
+2021-03,Explorer,1657,47.9
+2021-03,3-Day Weekender,706,36.4
+2021-03,Local31,3534,28.0
+2021-03,Annual,2,8.5
+2021-03,U.T. Student Membership,379,21.4
+2021-03,Single Trip (Pay-as-you-ride),1439,64.2
+2021-03,Student Membership,153,21.0
+2021-03,24 Hour Walk Up Pass,2073,67.4
+2021-03,Pay-as-you-ride,1563,54.6
+2021-03,Local365,5273,23.6
+2021-03,Local365+Guest Pass,26,10.2
+2021-04,Annual Membership,2,7.5
+2021-04,Local365+Guest Pass,32,8.3
+2021-04,Pay-as-you-ride,1284,44.7
+2021-04,Local31,2789,26.7
+2021-04,Local365,5323,20.4
+2021-04,Single Trip (Pay-as-you-ride),1199,56.0
+2021-04,24 Hour Walk Up Pass,1870,67.5
+2021-04,Student Membership,1188,17.9
+2021-04,3-Day Weekender,1295,35.7
+2021-04,U.T. Student Membership,448,16.6
+2021-04,Annual,3,28.3
+2021-04,Explorer,1547,45.5
+2021-05,Explorer,1651,40.2
+2021-05,Single Trip (Pay-as-you-ride),1417,54.6
+2021-05,Pay-as-you-ride,1619,42.3
+2021-05,Local31,2852,27.3
+2021-05,Annual Membership,2,13.0
+2021-05,Single Trip Ride,1,12.0
+2021-05,24 Hour Walk Up Pass,1983,57.4
+2021-05,3-Day Weekender,1551,32.0
+2021-05,Local365+Guest Pass,28,7.2
+2021-05,Local365,4942,24.1
+2021-05,Student Membership,988,19.7
+2021-05,U.T. Student Membership,393,12.8
+2021-06,Local31,3087,26.4
+2021-06,Local365,4521,22.8
+2021-06,24 Hour Walk Up Pass,1646,65.5
+2021-06,Student Membership,792,18.1
+2021-06,Local365+Guest Pass,42,11.7
+2021-06,U.T. Student Membership,431,12.9
+2021-06,Single Trip (Pay-as-you-ride),1267,59.0
+2021-06,Annual,2,10.5
+2021-06,3-Day Weekender,1222,27.9
+2021-06,Pay-as-you-ride,1462,42.1
+2021-06,Explorer,1267,39.0
+2021-07,Local365,4128,26.7
+2021-07,Local31,3210,29.8
+2021-07,Pay-as-you-ride,1377,44.1
+2021-07,Annual,2,22.5
+2021-07,3-Day Weekender,1240,33.6
+2021-07,Student Membership,926,20.8
+2021-07,Explorer,1450,41.1
+2021-07,Single Trip (Pay-as-you-ride),1290,57.6
+2021-07,Local365+Guest Pass,32,37.2
+2021-07,Annual Membership,3,11.3
+2021-07,U.T. Student Membership,370,11.5
+2021-07,24 Hour Walk Up Pass,1741,57.2
+2021-08,Single Trip Ride,1,9.0
+2021-08,Explorer,1333,39.1
+2021-08,Local365,4389,22.1
+2021-08,Local31,2815,30.4
+2021-08,Pay-as-you-ride,1258,45.0
+2021-08,Single Trip (Pay-as-you-ride),966,49.7
+2021-08,3-Day Weekender,765,31.7
+2021-08,24 Hour Walk Up Pass,1321,64.8
+2021-08,U.T. Student Membership,245,11.8
+2021-08,Student Membership,3814,15.3
+2021-08,Local365+Guest Pass,6,20.0
+2021-09,3-Day Weekender,903,29.6
+2021-09,Explorer,1260,44.6
+2021-09,Student Membership,13599,15.7
+2021-09,24 Hour Walk Up Pass,1299,62.0
+2021-09,Pay-as-you-ride,1375,38.6
+2021-09,Local31,3235,32.4
+2021-09,Single Trip (Pay-as-you-ride),1211,53.8
+2021-09,Annual,12,33.8
+2021-09,Annual Membership,12,23.8
+2021-09,Local365+Guest Pass,13,10.9
+2021-09,Local365,5167,23.3
+2021-09,U.T. Student Membership,423,12.4
+2021-10,Local365+Guest Pass,31,10.0
+2021-10,Local365,4969,24.5
+2021-10,3-Day Weekender,1476,40.2
+2021-10,Pay-as-you-ride,2232,42.5
+2021-10,Annual Membership,1,25.0
+2021-10,Annual,22,22.1
+2021-10,Heartland Pass (Annual Pay),3,11.3
+2021-10,24 Hour Walk Up Pass,1906,61.2
+2021-10,Single Trip (Pay-as-you-ride),1938,57.0
+2021-10,Local31,4504,38.6
+2021-10,U.T. Student Membership,416,13.9
+2021-10,Student Membership,15073,17.1
+2021-10,Explorer,1682,37.0
+2021-11,U.T. Student Membership,323,16.8
+2021-11,Local365,3373,23.0
+2021-11,24 Hour Walk Up Pass,1498,63.5
+2021-11,Student Membership,11311,17.1
+2021-11,Explorer,1523,46.5
+2021-11,3-Day Weekender,1273,32.7
+2021-11,Local31,3110,39.2
+2021-11,Pay-as-you-ride,1480,59.2
+2021-11,Local365+Guest Pass,22,24.3
+2021-11,Single Trip (Pay-as-you-ride),1057,55.1
+2021-11,Annual Membership,3,10.7
+2021-11,Annual,2,79.5
+2021-12,U.T. Student Membership,222,8.8
+2021-12,Local31,2973,41.7
+2021-12,3-Day Weekender,881,40.9
+2021-12,Student Membership,7064,18.8
+2021-12,Local365,2565,28.0
+2021-12,Single Trip (Pay-as-you-ride),926,61.1
+2021-12,24 Hour Walk Up Pass,1195,71.6
+2021-12,Explorer,1595,43.6
+2021-12,Local365+Guest Pass,5,13.6
+2021-12,Pay-as-you-ride,1204,56.7
+2022-01,HT Ram Membership,2,7.0
+2022-01,Local365,2139,22.8
+2022-01,Single Trip (Pay-as-you-ride),573,45.5
+2022-01,Student Membership,5828,17.3
+2022-01,Local365+Guest Pass,3,40.7
+2022-01,3-Day Weekender,553,37.9
+2022-01,Explorer,1030,37.0
+2022-01,24 Hour Walk Up Pass,686,57.1
+2022-01,Local31,2725,35.1
+2022-01,Pay-as-you-ride,804,47.8
+2022-01,U.T. Student Membership,170,16.4
+2022-02,Single Trip (Pay-as-you-ride),303,67.5
+2022-02,U.T. Student Membership,160,12.2
+2022-02,Local365+Guest Pass,11,12.7
+2022-02,Pay-as-you-ride,1140,54.7
+2022-02,Annual,12,16.7
+2022-02,Student Membership,11815,22.7
+2022-02,3-Day Weekender,891,37.6
+2022-02,Local31,3158,42.7
+2022-02,24 Hour Walk Up Pass,379,60.4
+2022-02,HT Ram Membership,11,30.4
+2022-02,Annual Membership,10,36.4
+2022-02,Local365,2032,27.7
+2022-02,Explorer,1329,62.8
+2022-03,Explorer,3354,40.7
+2022-03,Annual,2,28.5
+2022-03,3-Day Weekender,1861,31.0
+2022-03,Local31,3603,32.1
+2022-03,HT Ram Membership,5,8.0
+2022-03,Local365+Guest Pass,17,9.8
+2022-03,Pay-as-you-ride,2378,40.0
+2022-03,Single Trip (Pay-as-you-ride),462,42.3
+2022-03,U.T. Student Membership,165,15.2
+2022-03,24 Hour Walk Up Pass,575,49.8
+2022-03,Student Membership,11673,13.0
+2022-03,Local365,3477,21.6
+2022-04,24 Hour Walk Up Pass,892,50.2
+2022-04,Pay-as-you-ride,2640,49.6
+2022-04,Local365,3766,19.6
+2022-04,Single Trip (Pay-as-you-ride),718,48.1
+2022-04,Single Trip Ride,1,33.0
+2022-04,U.T. Student Membership,205,12.8
+2022-04,Local365+Guest Pass,16,15.2
+2022-04,3-Day Weekender,2642,33.9
+2022-04,Annual,1,116.0
+2022-04,Student Membership,17468,15.4
+2022-04,HT Ram Membership,6,7.2
+2022-04,Local31,4460,33.8
+2022-04,Explorer,3975,42.9
+2022-05,Student Membership,10495,16.0
+2022-05,Local365,3320,22.4
+2022-05,Local365+Guest Pass,4,24.8
+2022-05,HT Ram Membership,2,55.0
+2022-05,Annual Membership,8,20.9
+2022-05,Single Trip (Pay-as-you-ride),473,48.1
+2022-05,Explorer,2827,42.3
+2022-05,Local31,4016,33.2
+2022-05,U.T. Student Membership,179,13.3
+2022-05,Pay-as-you-ride,2378,47.5
+2022-05,24 Hour Walk Up Pass,478,65.7
+2022-05,3-Day Weekender,2171,33.8
+2022-06,U.T. Student Membership,182,17.3
+2022-06,Explorer,2016,46.2
+2022-06,24 Hour Walk Up Pass,244,69.0
+2022-06,3-Day Weekender,1903,34.3
+2022-06,Single Trip (Pay-as-you-ride),281,72.2
+2022-06,Local365,2993,23.8
+2022-06,Pay-as-you-ride,1705,43.9
+2022-06,Local31,4184,31.5
+2022-06,Student Membership,6013,20.5
+2022-06,Local365+Guest Pass,4,20.8
+2022-06,Annual Membership,1,46.0
+2022-07,24 Hour Walk Up Pass,264,68.0
+2022-07,Student Membership,6140,24.0
+2022-07,3-Day Weekender,1380,38.9
+2022-07,Single Trip (Pay-as-you-ride),247,44.7
+2022-07,Local31,4435,30.1
+2022-07,Pay-as-you-ride,1819,44.3
+2022-07,U.T. Student Membership,118,22.5
+2022-07,Local365,2670,22.9
+2022-07,Annual Membership,6,6.5
+2022-07,Explorer,2407,46.5
+2022-08,Single Trip (Pay-as-you-ride),158,51.2
+2022-08,Local365,2995,21.4
+2022-08,Pay-as-you-ride,1658,39.9
+2022-08,Explorer,1715,49.3
+2022-08,Student Membership,11942,13.8
+2022-08,Local31,4124,29.4
+2022-08,3-Day Weekender,1295,25.5
+2022-08,U.T. Student Membership,95,17.3
+2022-08,Local365+Guest Pass,3,20.7
+2022-08,24 Hour Walk Up Pass,172,53.9
+2022-08,3-Day Explorer,2,97.5
+2022-09,Single Trip (Pay-as-you-ride),174,73.1
+2022-09,24 Hour Walk Up Pass,151,60.4
+2022-09,U.T. Student Membership,126,17.3
+2022-09,Pay-as-you-ride,2102,42.3
+2022-09,Student Membership,24893,12.6
+2022-09,Local365+Guest Pass,3,12.7
+2022-09,Local365,3473,21.9
+2022-09,3-Day Weekender,1752,32.2
+2022-09,Local31,5219,32.1
+2022-09,Annual Membership,1,50.0
+2022-09,Explorer,2362,40.2
+2022-10,Explorer,3263,36.3
+2022-10,Local31,4979,29.9
+2022-10,24 Hour Walk Up Pass,167,68.6
+2022-10,Pay-as-you-ride,3181,36.0
+2022-10,U.T. Student Membership,72,6.1
+2022-10,3-Day Weekender,2305,29.7
+2022-10,Single Trip (Pay-as-you-ride),273,54.5
+2022-10,Annual Membership,1,29.0
+2022-10,Local365,3759,19.1
+2022-10,Student Membership,25211,12.1
+2022-11,Local365,2128,19.7
+2022-11,Student Membership,16382,13.6
+2022-11,Pay-as-you-ride,1096,45.9
+2022-11,3-Day Weekender,952,30.6
+2022-11,Single Trip (Pay-as-you-ride),78,44.3
+2022-11,U.T. Student Membership,61,12.3
+2022-11,24 Hour Walk Up Pass,108,74.8
+2022-11,Explorer,1946,38.3
+2022-11,Local31,3795,34.5
+2022-11,Local365+Guest Pass,1,11.0
+2022-12,Local365,1769,19.9
+2022-12,Local365+Guest Pass,2,9.5
+2022-12,U.T. Student Membership,21,11.9
+2022-12,Student Membership,8059,16.6
+2022-12,Single Trip (Pay-as-you-ride),171,59.2
+2022-12,3-Day Weekender,675,32.4
+2022-12,Pay-as-you-ride,1000,35.5
+2022-12,24 Hour Walk Up Pass,167,47.8
+2022-12,Explorer,1710,36.5
+2022-12,Local31,3739,33.2
+2023-01,U.T. Student Membership,39,17.2
+2023-01,Student Membership,11548,17.3
+2023-01,24 Hour Walk Up Pass,203,57.0
+2023-01,Local365+Guest Pass,1,16.0
+2023-01,Local365,2011,23.5
+2023-01,Explorer,2140,38.4
+2023-01,Pay-as-you-ride,1286,47.0
+2023-01,Local31,3752,31.4
+2023-01,Single Trip (Pay-as-you-ride),189,37.4
+2023-01,3-Day Weekender,883,44.2
+2023-02,Student Membership,9462,16.5
+2023-02,Pay-as-you-ride,1297,45.8
+2023-02,24 Hour Walk Up Pass,259,48.8
+2023-02,3-Day Weekender,1092,28.6
+2023-02,Local365,1605,18.9
+2023-02,Single Trip (Pay-as-you-ride),185,38.6
+2023-02,U.T. Student Membership,15,17.4
+2023-02,Explorer,2056,43.1
+2023-02,Local31,2768,30.1
+2023-03,Pay-as-you-ride,2447,36.3
+2023-03,U.T. Student Membership,26,61.4
+2023-03,Explorer,3234,45.6
+2023-03,Student Membership,12407,12.4
+2023-03,24 Hour Walk Up Pass,463,131.5
+2023-03,3-Day Weekender,2240,31.9
+2023-03,Single Trip (Pay-as-you-ride),361,42.5
+2023-03,Local365,2807,21.5
+2023-03,Local31,3220,26.8
+2023-04,Explorer,3089,43.2
+2023-04,3-Day Weekender,1929,50.2
+2023-04,Local365,2544,17.6
+2023-04,Pay-as-you-ride,2217,50.4
+2023-04,Student Membership,13909,11.8
+2023-04,Single Trip (Pay-as-you-ride),419,79.6
+2023-04,Local31,2877,27.3
+2023-04,U.T. Student Membership,20,15.1
+2023-04,24 Hour Walk Up Pass,617,61.4
+2023-05,24 Hour Walk Up Pass,346,66.8
+2023-05,Single Trip (Pay-as-you-ride),313,40.5
+2023-05,Local31,3326,28.3
+2023-05,Student Membership,4277,16.6
+2023-05,3-Day Weekender,1289,33.3
+2023-05,Explorer,2666,42.9
+2023-05,Pay-as-you-ride,2107,52.2
+2023-05,Local365,3119,21.2
+2023-05,Single Trip Ride,1,16.0
+2023-05,U.T. Student Membership,17,20.9
+2023-06,Local365,2976,22.8
+2023-06,3-Day Weekender,1030,31.8
+2023-06,U.T. Student Membership,8,16.8
+2023-06,Pay-as-you-ride,1803,49.3
+2023-06,Local31,3600,29.7
+2023-06,Single Trip (Pay-as-you-ride),229,140.0
+2023-06,24 Hour Walk Up Pass,218,69.8
+2023-06,Student Membership,4284,23.9
+2023-06,Explorer,1995,48.5
+2023-06,Single Trip Ride,1,3.0
+2023-07,Local365+Guest Pass,2,37.0
+2023-07,Single Trip (Pay-as-you-ride),256,52.1
+2023-07,3-Day Weekender,796,41.0
+2023-07,Local365,3247,21.7
+2023-07,Explorer,1852,43.3
+2023-07,U.T. Student Membership,12,29.5
+2023-07,24 Hour Walk Up Pass,245,84.4
+2023-07,Local31,3097,29.3
+2023-07,Student Membership,5080,17.2
+2023-07,Pay-as-you-ride,1873,42.8
+2023-08,Student Membership,10732,14.3
+2023-08,U.T. Student Membership,30,49.9
+2023-08,Explorer,1029,71.8
+2023-08,Single Trip (Pay-as-you-ride),177,54.3
+2023-08,Local365,3077,20.5
+2023-08,24 Hour Walk Up Pass,129,48.4
+2023-08,Pay-as-you-ride,1597,47.7
+2023-08,Local31,2851,22.1
+2023-08,3-Day Weekender,567,38.0
+2023-09,Student Membership,23392,11.3
+2023-09,3-Day Weekender,1540,33.8
+2023-09,Pay-as-you-ride,1995,48.0
+2023-09,Explorer,1622,46.0
+2023-09,Local31,3240,25.3
+2023-09,24 Hour Walk Up Pass,236,57.4
+2023-09,Local365+Guest Pass,1,6.0
+2023-09,Single Trip (Pay-as-you-ride),243,61.7
+2023-09,U.T. Student Membership,28,16.0
+2023-09,Local365,3023,18.7
+2023-10,24 Hour Walk Up Pass,322,49.5
+2023-10,Local365,3055,18.0
+2023-10,U.T. Student Membership,6,19.7
+2023-10,Single Trip (Pay-as-you-ride),354,36.9
+2023-10,Pay-as-you-ride,2891,37.3
+2023-10,Student Membership,25129,11.2
+2023-10,Explorer,3175,40.3
+2023-10,3-Day Weekender,2,12.0
+2023-10,Local31,3793,20.9
+2023-11,24 Hour Walk Up Pass,186,79.9
+2023-11,Single Trip (Pay-as-you-ride),171,44.6
+2023-11,Local31,3132,22.5
+2023-11,Local365,2257,19.3
+2023-11,Pay-as-you-ride,1506,41.9
+2023-11,Explorer,2275,41.2
+2023-11,Student Membership,16773,12.0
+2023-12,3-Day Weekender,8,43.3
+2023-12,Student Membership,8696,13.8
+2023-12,24 Hour Walk Up Pass,88,84.6
+2023-12,Local365,2147,17.1
+2023-12,Explorer,2354,41.6
+2023-12,Local31,2771,24.0
+2023-12,Pay-as-you-ride,1567,50.6
+2023-12,Single Trip (Pay-as-you-ride),115,61.3
+2024-01,Single Trip Ride,2,47.5
+2024-01,Local365,1956,17.6
+2024-01,Pay-as-you-ride,1062,33.2
+2024-01,Explorer,1264,76.4
+2024-01,Local31,1824,18.4
+2024-01,Local365+Guest Pass,1,45.0
+2024-01,Student Membership,9381,12.4
+2024-02,Local365+Guest Pass,6,27.2
+2024-02,U.T. Student Membership,1,52.0
+2024-02,Explorer,2708,38.3
+2024-02,3-Day Weekender,2,37.0
+2024-02,Pay-as-you-ride,1709,39.3
+2024-02,Student Membership,18331,10.1
+2024-02,Local31,2848,20.3
+2024-02,Local365,2497,15.6
+2024-03,Local365,3944,14.5
+2024-03,Explorer,4529,37.3
+2024-03,Student Membership,15472,11.8
+2024-03,Pay-as-you-ride,3152,35.0
+2024-03,Local31,5090,17.3
+2024-03,3-Day Weekender,20,13.0
+2024-04,U.T. Student Membership,2,16.0
+2024-04,Student Membership,18072,11.5
+2024-04,Local365,2912,14.7
+2024-04,3-Day Weekender,2,18.5
+2024-04,Pay-as-you-ride,2848,42.3
+2024-04,Local31,4369,19.3
+2024-04,Explorer,4998,40.7
+2024-05,Student Membership,7099,14.0
+2024-05,Local365,2712,18.5
+2024-05,Local31,3432,21.8
+2024-05,Pay-as-you-ride,1887,42.1
+2024-05,Explorer,2634,40.5
+2024-06,Student Membership,5476,14.9
+2024-06,Local31,2071,19.8
+2024-06,Local365,2225,16.4
+2024-06,Pay-as-you-ride,2149,52.0
+2024-06,Explorer,2457,45.9
